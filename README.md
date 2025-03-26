@@ -84,6 +84,10 @@ Now, you can run the main Python script of the project by executing the followin
 ```bash
 python main.py
 ```
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE](LICENSE) file for details.
+
 
 The script will interact with the models you downloaded, allowing you to perform specific tasks defined in the `main.py`.
 
